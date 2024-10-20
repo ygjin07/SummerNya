@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 865b2bfef95f5374182d608e9df89765
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dovemayo
+  fontNames:
+  - Dovemayo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 554300ea50c54894ca426250048a0408, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
